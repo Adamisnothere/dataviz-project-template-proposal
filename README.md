@@ -9,7 +9,7 @@ The data I propose to visualize for my project is the airline review data source
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * How does the different types of flight accomodations affect the overall rating of the airline?
+ * How does the different types of flight accomodations affect the overall rating?
  * Is there any correlation between X and Y? Where X could be the overall rating and Y could be one of the accomodations.
  * Are there interesting spatial patterns in X?
  * Are any dates flown correlate with worse overall_ratings?
@@ -26,9 +26,8 @@ I’ve created a proof of concept visualization of this data. It's a horizontal 
 [![image](https://github.com/user-attachments/assets/bb3419d1-2a74-423e-ad1a-6251aa6f39b4)](https://vizhub.com/Adamisnothere/0950b3c9bc7741f38fa593e3761c2f30)
 
 ## Open Questions
-
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am not sure how well I will be able to incorporate all the X and Y changes using user interactions. I want to be able to change the Y from airlines (using a bar chart) to specific aggregations of accomodations to be a scatterplot and also be able to pick the aggregation type. This might be a tough task to implement and get right so that the user will be able to use, understand, and extract information from.
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+Each a week a new addition should be made to the project to enhance, refactor, or iterate upon the reception of the visualization. In other words, there should be a meaningful update each week that shows effort and an improvement of the visualization.
