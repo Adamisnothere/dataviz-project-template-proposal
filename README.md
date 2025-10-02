@@ -21,8 +21,8 @@ This sketch represents the overall ratings for different airlines across the wor
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a horizontal bar chart and it shows the average overall ratings of the top 10 to 20 airlines in the world based on customer ratings.
-[![image](https://github.com/user-attachments/assets/bb3419d1-2a74-423e-ad1a-6251aa6f39b4)](https://vizhub.com/Adamisnothere/0950b3c9bc7741f38fa593e3761c2f30)
+I’ve created a proof of concept visualization of this data. It's a horizontal bar chart and it shows the average overall ratings of the top X airlines in the world based on customer ratings. I have added the ability to sort by ascending or descending overall rating and the ability to slide a scale to choose how many airlines will be displayed at once.
+[![image](https://github.com/user-attachments/assets/bb3419d1-2a74-423e-ad1a-6251aa6f39b4)](https://vizhub.com/Adamisnothere/22d28792bbd74cd98bb74ecbf01a36a7)
 
 ## Open Questions
 I am not sure how well I will be able to incorporate all the X and Y changes using user interactions. I want to be able to change the Y from airlines (using a bar chart) to specific aggregations of accomodations to be a scatterplot and also be able to pick the aggregation type. This might be a tough task to implement and get right so that the user will be able to use, understand, and extract information from.
@@ -30,3 +30,4 @@ I am not sure how well I will be able to incorporate all the X and Y changes usi
 ## Milestones
 
 Each a week a new addition should be made to the project to enhance, refactor, or iterate upon the reception of the visualization. In other words, there should be a meaningful update each week that shows effort and an improvement of the visualization.
+Week1: Added sorting options, added sliding scale to pick the number of airlines to display at once on the visualization, moved the x axis to the top of the graph (as apposed to the bottom), small edits to positioning of text
