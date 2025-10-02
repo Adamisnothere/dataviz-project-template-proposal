@@ -30,4 +30,10 @@ I am not sure how well I will be able to incorporate all the X and Y changes usi
 ## Milestones
 
 Each a week a new addition should be made to the project to enhance, refactor, or iterate upon the reception of the visualization. In other words, there should be a meaningful update each week that shows effort and an improvement of the visualization.
-Week1: Added sorting options, added sliding scale to pick the number of airlines to display at once on the visualization, moved the x axis to the top of the graph (as apposed to the bottom), small edits to positioning of text, and ensured that the max rating value of 9 is always visible even if the max is not as high.
+
+### Week1: 
+* Added sorting options by ascending or descending
+* Added sliding scale to pick the number of airlines to display at once on the visualization (5 to 30)
+* Moved the x axis to the top of the graph (as apposed to the bottom)
+* Small edits to positioning of text
+* Ensured that the max overall rating value of 9 is always visible even if the max is not as high.
