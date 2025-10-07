@@ -37,3 +37,9 @@ Each a week a new addition should be made to the project to enhance, refactor, o
 * Moved the x axis to the top of the graph (as apposed to the bottom)
 * Small edits to positioning of text
 * Ensured that the max overall rating value of 9 is always visible even if the max is not as high.
+
+### Week2:
+* Added scrolling feature to see cutoff data
+* Removed erroneous data at the end of the data file (leftover from previous visualization that wasnt removed)
+* Added different aggregation methods and a drop down box to choose (mode, median, average)
+* Cleaned up fonts and added a settings area to the top of the visualization
