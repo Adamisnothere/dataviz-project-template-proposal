@@ -21,8 +21,16 @@ This sketch represents the overall ratings for different airlines across the wor
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a horizontal bar chart and it shows the average overall ratings of the top X airlines in the world based on customer ratings. I have added the ability to sort by ascending or descending overall rating and the ability to slide a scale to choose how many airlines will be displayed at once.
-[![image](https://github.com/user-attachments/assets/0bf0bf37-625c-4754-904f-326ed8ba95bb)](https://vizhub.com/Adamisnothere/22d28792bbd74cd98bb74ecbf01a36a7)
+I’ve created a proof of concept visualization of this data. It's a horizontal bar chart and it shows the average overall ratings of the top X airlines in the world based on customer ratings. I have added the ability to sort by ascending or descending overall rating, the ability to slide a scale to choose how many airlines will be displayed at once, search, and choose aggregation type. You can also choose between different rating types.
+[![image](https://github.com/user-attachments/assets/8f999e0a-d7d6-4cf3-96ab-c3a8542da63c)](https://vizhub.com/Adamisnothere/e12609b86b454b348784607b1eca434e)
+
+This is a new feature that will display the exact rating value and airline company if it was cut off.
+<img width="1574" height="722" alt="image" src="https://github.com/user-attachments/assets/99b74730-4003-4e1e-a5fa-b3b02eb096fc" />
+
+This shows the comparison feature allowing you to compare all the rating types of two specific airlines.
+<img width="1097" height="574" alt="image" src="https://github.com/user-attachments/assets/0a85067d-fc12-4e37-bb7f-c505c869ab4e" />
+
+
 
 ## Open Questions
 I am not sure how well I will be able to incorporate all the X and Y changes using user interactions. I want to be able to change the Y from airlines (using a bar chart) to specific aggregations of accomodations to be a scatterplot and also be able to pick the aggregation type. This might be a tough task to implement and get right so that the user will be able to use, understand, and extract information from.
@@ -43,3 +51,6 @@ Each a week a new addition should be made to the project to enhance, refactor, o
 * Removed erroneous data at the end of the data file (leftover from previous visualization that wasnt removed)
 * Added different aggregation methods and a drop down box to choose (mode, median, average)
 * Cleaned up fonts and added a settings area to the top of the visualization
+* Added comparison mode for 2 different airlines for all rating types
+* Added search bar to search for specific airlines
+* Added ability to select which rating type to use
