@@ -54,3 +54,8 @@ Each a week a new addition should be made to the project to enhance, refactor, o
 * Added comparison mode for 2 different airlines for all rating types
 * Added search bar to search for specific airlines
 * Added ability to select which rating type to use
+
+### Week3:
+* Cleaned up titles in all modes
+* Changed the color range in the primary graph to be diverging from dark reds up to dark greens
+* Added feature to highlight the airline if you hover over the legend color in compare mode
