@@ -21,15 +21,17 @@ This sketch represents the overall ratings for different airlines across the wor
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a horizontal bar chart and it shows the average overall ratings of the top X airlines in the world based on customer ratings. I have added the ability to sort by ascending or descending overall rating, the ability to slide a scale to choose how many airlines will be displayed at once, search, and choose aggregation type. You can also choose between different rating types.
+I’ve created a proof of concept visualization of this data. It's a horizontal bar chart and it shows the average overall ratings of the top X airlines in the world based on customer ratings. I have added the ability to sort by ascending, descending, or alphabetically for each rating type, the ability to slide a scale to choose how many airlines will be displayed at once, search, and choose aggregation type. You can also choose between different rating types.
 [![image](https://github.com/user-attachments/assets/3d45bcb8-3316-4712-b429-e9f70cfff862)](https://vizhub.com/Adamisnothere/e12609b86b454b348784607b1eca434e)
 
 This is a new feature that will display the exact rating value and airline company if it was cut off.
 <img width="1574" height="722" alt="image" src="https://github.com/user-attachments/assets/99b74730-4003-4e1e-a5fa-b3b02eb096fc" />
 
 This shows the comparison feature allowing you to compare all the rating types of two specific airlines.
-<img width="1097" height="574" alt="image" src="https://github.com/user-attachments/assets/0a85067d-fc12-4e37-bb7f-c505c869ab4e" />
+<img width="1148" height="662" alt="image" src="https://github.com/user-attachments/assets/af8024fe-7dcb-4709-8142-335d851cc052" />
 
+Another new feature allows you to look a the trend of certain ratings over time. This time graph mode allows you to compare all rating types and choose your aggregation method. It is currently for ALL airlines but will soon be modified to allow you to choose for a specific airline. It plots month by month and if you hover over a specific circle it will show you number of reviews and date.
+<img width="977" height="562" alt="image" src="https://github.com/user-attachments/assets/db79404f-6271-4d82-8ccb-bea243ccbacc" />
 
 
 ## Open Questions
@@ -61,3 +63,4 @@ Each a week a new addition should be made to the project to enhance, refactor, o
 * Added feature to highlight the airline if you hover over the legend color in compare mode
 * Removed limit on number of airlines shown (up to max now)
 * Added feature to sort airlines alphabetically
+* Added time graph feature to see trends over time of each rating type for all airlines
