@@ -59,3 +59,5 @@ Each a week a new addition should be made to the project to enhance, refactor, o
 * Cleaned up titles in all modes
 * Changed the color range in the primary graph to be diverging from dark reds up to dark greens
 * Added feature to highlight the airline if you hover over the legend color in compare mode
+* Removed limit on number of airlines shown (up to max now)
+* Added feature to sort airlines alphabetically
