@@ -33,6 +33,9 @@ This shows the comparison feature allowing you to compare all the rating types o
 Another new feature allows you to look a the trend of certain ratings over time. This time graph mode allows you to compare all rating types and choose your aggregation method. It is currently for ALL airlines for a specific airline. It plots month by month and if you hover over a specific circle it will show you number of reviews and date. Included is an animation that will draw the data over time. This will allow you to observe any temporal trends in the data. If you hover over any of the data points it will tell you what the date is, the rating, and number of data examples in that data point.
 <img width="1235" height="573" alt="image" src="https://github.com/user-attachments/assets/d3da963e-e8d6-4e14-9bee-c026752433fe" />
 
+<img width="1241" height="586" alt="image" src="https://github.com/user-attachments/assets/77cdfdc3-e2f4-4cf5-8b9b-b3b80162778e" />
+
+
 
 ## Open Questions
 I am not sure how well I will be able to incorporate all the X and Y changes using user interactions. I want to be able to change the Y from airlines (using a bar chart) to specific aggregations of accomodations to be a scatterplot and also be able to pick the aggregation type. This might be a tough task to implement and get right so that the user will be able to use, understand, and extract information from.
