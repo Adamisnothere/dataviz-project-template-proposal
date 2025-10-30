@@ -31,7 +31,7 @@ This shows the comparison feature allowing you to compare all the rating types o
 <img width="1148" height="662" alt="image" src="https://github.com/user-attachments/assets/af8024fe-7dcb-4709-8142-335d851cc052" />
 
 Another new feature allows you to look a the trend of certain ratings over time. This time graph mode allows you to compare all rating types and choose your aggregation method. It is currently for ALL airlines for a specific airline. It plots month by month and if you hover over a specific circle it will show you number of reviews and date. Included is an animation that will draw the data over time. This will allow you to observe any temporal trends in the data. If you hover over any of the data points it will tell you what the date is, the rating, and number of data examples in that data point.
-<img width="977" height="562" alt="image" src="https://github.com/user-attachments/assets/db79404f-6271-4d82-8ccb-bea243ccbacc" />
+<img width="1235" height="573" alt="image" src="https://github.com/user-attachments/assets/d3da963e-e8d6-4e14-9bee-c026752433fe" />
 
 
 ## Open Questions
