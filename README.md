@@ -2,16 +2,16 @@
 
 ## Data
 
-The data I propose to visualize for my project is the airline review data sourced from airlinequality.com and https://www.kaggle.com/datasets/juhibhojani/airline-reviews. I plan to visualize the overall ratings or the accomodation ratings which could be one of seat comfort, cabin staff service, food & bev, ground service, inflight entertainment, wifi/connectibity and value for money. I would like to utilize the horizontal bar chart to show these ratings per airline and make it customizable in that you can show different statistics like average, mode, etc and show by ascending or descending. I can make it more customizable by allowing the user to pick how many instances they want to show.
+The data I propose to visualize for my project is the airline review data sourced from airlinequality.com and https://www.kaggle.com/datasets/juhibhojani/airline-reviews. I plan to visualize the overall ratings or the accomodation ratings which could be one of seat comfort, cabin staff service, food & beverage, ground service, inflight entertainment, wifi/connectibity and value for money. I would like to utilize the horizontal bar chart to show these ratings per airline and make it customizable in that you can show different statistics like average, mode, etc and show by ascending or descending. I can make it more customizable by allowing the user to pick how many instances they want to show, compare or search individual airlines and show a timeline for a given rating. I plan to incorprate learnings of color, interation, and more from Visualization Analysis & Design, 2021.
 
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * How does the different types of flight accomodations affect the overall rating?
+ * How do the different types of flight accomodations affect the overall rating?
  * Is there any correlation between X and Y? Where X could be the overall rating and Y could be one of the accomodations.
- * Are there interesting spatial patterns in X?
+ * Are there interesting temporal patterns in X?
  * Are any dates flown correlate with worse overall_ratings?
 
 ## Sketches
@@ -27,15 +27,17 @@ I’ve created a proof of concept visualization of this data. It's a horizontal 
 This is a new feature that will display the exact rating value and airline company if it was cut off.
 <img width="1574" height="722" alt="image" src="https://github.com/user-attachments/assets/99b74730-4003-4e1e-a5fa-b3b02eb096fc" />
 
-This shows the comparison feature allowing you to compare all the rating types of two specific airlines.
+This shows the comparison feature allowing you to compare all the rating types of two specific airlines. This view allows you to choose what aggregation type (mean, median, mode). 
 <img width="1148" height="662" alt="image" src="https://github.com/user-attachments/assets/af8024fe-7dcb-4709-8142-335d851cc052" />
 
-Another new feature allows you to look a the trend of certain ratings over time. This time graph mode allows you to compare all rating types and choose your aggregation method. It is currently for ALL airlines but will soon be modified to allow you to choose for a specific airline. It plots month by month and if you hover over a specific circle it will show you number of reviews and date.
+Another new feature allows you to look a the trend of certain ratings over time. This time graph mode allows you to compare all rating types and choose your aggregation method. It is currently for ALL airlines for a specific airline. It plots month by month and if you hover over a specific circle it will show you number of reviews and date. Included is an animation that will draw the data over time. This will allow you to observe any temporal trends in the data. If you hover over any of the data points it will tell you what the date is, the rating, and number of data examples in that data point.
 <img width="977" height="562" alt="image" src="https://github.com/user-attachments/assets/db79404f-6271-4d82-8ccb-bea243ccbacc" />
 
 
 ## Open Questions
 I am not sure how well I will be able to incorporate all the X and Y changes using user interactions. I want to be able to change the Y from airlines (using a bar chart) to specific aggregations of accomodations to be a scatterplot and also be able to pick the aggregation type. This might be a tough task to implement and get right so that the user will be able to use, understand, and extract information from.
+
+One thought is that I am adding too much into this visualiztion and the individual views should be split out into several different visualization projects. On one hand I like that you have the option to look at the data in so many ways but on the other I find that it may be too overwhelming
 
 ## Milestones
 
@@ -64,3 +66,8 @@ Each a week a new addition should be made to the project to enhance, refactor, o
 * Removed limit on number of airlines shown (up to max now)
 * Added feature to sort airlines alphabetically
 * Added time graph feature to see trends over time of each rating type for all airlines
+
+### Week4:
+* Added loading animation and replay button for the time graph data
+* Added grid lines to the time graph for easier viewing
+* Added the option to aggregate ALL airlines or choose a specific one in the time graph
