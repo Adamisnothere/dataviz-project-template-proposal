@@ -35,6 +35,7 @@ New:
 <img width="1906" height="762" alt="image" src="https://github.com/user-attachments/assets/2972b08d-2df0-48b6-9d86-13c65230840c" />
 
 This is a new feature that will display the exact rating value and airline company if it was cut off.
+
 Old:
 <img width="1574" height="722" alt="image" src="https://github.com/user-attachments/assets/99b74730-4003-4e1e-a5fa-b3b02eb096fc" />
 New:
@@ -42,6 +43,7 @@ New:
 
 
 This shows the comparison feature allowing you to compare all the rating types of two specific airlines. This view allows you to choose what aggregation type (mean, median, mode). 
+
 Old:
 <img width="1148" height="662" alt="image" src="https://github.com/user-attachments/assets/af8024fe-7dcb-4709-8142-335d851cc052" />
 New:
@@ -49,14 +51,17 @@ New:
 
 
 Another new feature allows you to look a the trend of certain ratings over time. This time graph mode allows you to compare all rating types and choose your aggregation method. It is currently for ALL airlines for a specific airline. It plots month by month and if you hover over a specific circle it will show you number of reviews and date. Included is an animation that will draw the data over time. This will allow you to observe any temporal trends in the data. If you hover over any of the data points it will tell you what the date is, the rating, and number of data examples in that data point.
+
 Old:
 <img width="1235" height="573" alt="image" src="https://github.com/user-attachments/assets/d3da963e-e8d6-4e14-9bee-c026752433fe" />
 New:
 <img width="1918" height="798" alt="image" src="https://github.com/user-attachments/assets/296139b3-175a-449a-a8e0-bf0e3071862a" />
 
 
+Old:
 <img width="1241" height="586" alt="image" src="https://github.com/user-attachments/assets/77cdfdc3-e2f4-4cf5-8b9b-b3b80162778e" />
-
+New:
+<img width="1912" height="794" alt="image" src="https://github.com/user-attachments/assets/7b45266e-0e28-4e8e-92c5-251d71ac31ff" />
 
 
 ## Open Questions
