@@ -22,7 +22,7 @@ This sketch represents the overall ratings for different airlines across the wor
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a horizontal bar chart and it shows the average overall ratings of the top X airlines in the world based on customer ratings. I have added the ability to sort by ascending, descending, or alphabetically for each rating type, the ability to slide a scale to choose how many airlines will be displayed at once, search, and choose aggregation type. You can also choose between different rating types.
-[![image](https://github.com/user-attachments/assets/3d45bcb8-3316-4712-b429-e9f70cfff862)](https://vizhub.com/Adamisnothere/3cf27e98ac654b8ebce9116475a24fef)
+[![image](https://github.com/user-attachments/assets/71f36bdb-2230-49b8-a559-9e1e80eca3ba)](https://vizhub.com/Adamisnothere/3cf27e98ac654b8ebce9116475a24fef)
 (CLICK TO VIEW VIZ)
 
 <img width="1639" height="617" alt="image" src="https://github.com/user-attachments/assets/d4689dc0-f220-43ce-b273-3b9a763ca3d7" />
@@ -78,3 +78,10 @@ Each a week a new addition should be made to the project to enhance, refactor, o
 * Added grid lines to the time graph for easier viewing
 * Added the option to aggregate ALL airlines or choose a specific one in the time graph
 * Updated other parts of read me and added more images
+
+### Week5:
+* Major redesign of the dashboard for each view
+* Standardized font family to inter
+* Implemented a card based design for a more modern look with rounded edges, borders, and gradients
+* Added a AUC fill to the time graph
+* 
