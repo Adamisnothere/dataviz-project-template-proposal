@@ -22,10 +22,17 @@ This sketch represents the overall ratings for different airlines across the wor
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a horizontal bar chart and it shows the average overall ratings of the top X airlines in the world based on customer ratings. I have added the ability to sort by ascending, descending, or alphabetically for each rating type, the ability to slide a scale to choose how many airlines will be displayed at once, search, and choose aggregation type. You can also choose between different rating types.
+
+### Major Redesign
+A major redesign has taken place for the viz. I have standardized colors, fonts (inter family), add a more modern card layout with rounded edges and moved the options to a left hand layout instead of at the top.
+
 [![image](https://github.com/user-attachments/assets/71f36bdb-2230-49b8-a559-9e1e80eca3ba)](https://vizhub.com/Adamisnothere/3cf27e98ac654b8ebce9116475a24fef)
 (CLICK TO VIEW VIZ)
 
+Old:
 <img width="1639" height="617" alt="image" src="https://github.com/user-attachments/assets/d4689dc0-f220-43ce-b273-3b9a763ca3d7" />
+New:
+<img width="1906" height="762" alt="image" src="https://github.com/user-attachments/assets/2972b08d-2df0-48b6-9d86-13c65230840c" />
 
 This is a new feature that will display the exact rating value and airline company if it was cut off.
 <img width="1574" height="722" alt="image" src="https://github.com/user-attachments/assets/99b74730-4003-4e1e-a5fa-b3b02eb096fc" />
