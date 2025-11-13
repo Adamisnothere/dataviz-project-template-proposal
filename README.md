@@ -119,9 +119,8 @@ The following are the aggregated enhancements included from the original prototy
 [![image](https://github.com/user-attachments/assets/74d0dd31-21ac-4cef-95f6-18e43172d5a4)](https://vizhub.com/Adamisnothere/3cf27e98ac654b8ebce9116475a24fef)
 
 #### Iteration 5:
-[![image](https://github.com/user-attachments/assets/d4689dc0-f220-43ce-b273-3b9a763ca3d7)](https://vizhub.com/Adamisnothere/3cf27e98ac654b8ebce9116475a24fef)
-
 This feature adds text to display the exact rating value and airline company if it was cut off.
+[![image](https://github.com/user-attachments/assets/d4689dc0-f220-43ce-b273-3b9a763ca3d7)](https://vizhub.com/Adamisnothere/3cf27e98ac654b8ebce9116475a24fef)
 <img width="1574" height="722" alt="image" src="https://github.com/user-attachments/assets/99b74730-4003-4e1e-a5fa-b3b02eb096fc" />
 
 This feature shows the comparison mode view allowing you to compare all the rating types of two specific airlines. This view allows you to choose what aggregation type (mean, median, mode) similar to the primary view. Additionally if you hover over a legend item it will highlight that airlines bars in the bar chart. This feature will allow you to take a deeper dive into any two airlines and compare their individual survey results. Note that if an airline does not display a value for a category it means that there is no data.
