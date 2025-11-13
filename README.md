@@ -219,7 +219,7 @@ The following is the timeline of each update (once per week) and the major chang
 
 2. One thought is that I am adding too much into this visualiztion and the individual views should be split out into several different visualization projects. On one hand I like that you have the option to look at the data in so many ways but on the other I find that it may be too overwhelming. While the visualization now supports rich interactions and multiple analytical views, there are tradeoffs in complexity. Adding numerous modes (bar, comparison, time-series, scatter) risks overwhelming users without a structured navigation design.
 
-** Response 2: **
+**Response 2:** I think that since I have split the viz into three distinct views its okay that they are all in one visualization because they are separated well enough not to confuse a user too much. It helps that I swapped the check boxes for radio buttons so there is no confusion that more than view can be used at once. Its now easy to swap to a different analysis mode by choosing the view you think is most useful for your analysis question.
 
 **Open considerations:**
 - Should these views be split into separate, smaller dashboards?  
@@ -230,8 +230,29 @@ Despite these challenges, the project effectively showcases how interactive visu
 
 ---
 
-## Milestones
+## 9. Conclusion
+
+This project demonstrates the end-to-end process of designing, implementing, and refining an interactive data visualization.  
+The final visualization enables users to:
+
+- Explore airline performance across multiple service categories  
+- Identify relationships between service attributes and overall satisfaction  
+- Observe how reviews evolve over time or in response to certain events in time 
+
+The iterative improvements, guided by visualization design principles, resulted in a clean, responsive, and informative visualization tool that bridges data and user insight.
+
+---
+
+## 10. Milestones
 
 Each a week a new addition should be made to the project to enhance, refactor, or iterate upon the reception of the visualization. In other words, there should be a meaningful update each week that shows effort and an improvement of the visualization.
+
+## 11. References
+
+- Munzner, T. (2021). *Visualization Analysis & Design*. CRC Press.  
+- [Airlinequality.com](https://www.airlinequality.com)  
+- [Kaggle: Airline Reviews Dataset](https://www.kaggle.com/datasets/juhibhojani/airline-reviews)
+
+---
 
 
