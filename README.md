@@ -5,7 +5,8 @@
 The goal of this project is to create an interactive and insightful data visualization exploring **airline survey data** from passengers around the world.  
 The visualization helps users understand how various aspects of airline service—such as seat comfort, cabin staff service, and inflight entertainment—affect overall passenger satisfaction.
 
-By integrating interactive elements such as filtering, sorting, aggregation, and multiple views, users can explore patterns, correlations, and temporal trends within the data.  
+By integrating interactive elements such as filtering, sorting, aggregation, and multiple views, users can explore patterns, correlations, and temporal trends within the data.
+
 This project applies design principles from *Visualization Analysis & Design (Munzner, 2021)* to build an effective, aesthetically consistent, and user-centered interface.
 
 ---
