@@ -7,6 +7,7 @@ The visualization helps users understand how various aspects of airline serviceâ
 
 By integrating interactive elements such as filtering, sorting, aggregation, and multiple views, users can explore patterns, correlations, and temporal trends within the data.
 
+
 This project applies design principles from *Visualization Analysis & Design (Munzner, 2021)* to build an effective, aesthetically consistent, and user-centered interface.
 
 ---
