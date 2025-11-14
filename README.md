@@ -36,7 +36,7 @@ Each record represents a customer review and includes:
 | **Date of Flight** | When the flight took place |
 | **Airline Name** | Airline company being reviewed |
 
-I plan to visualize the overall ratings and accomodation ratings which could be one of the above in table 1. I will utilize the horizontal bar chart and scatter plot to show ratings per airline and make it customizable in that you can show different aggregation types and show by ascending/descending. I can make it more customizable by allowing the user to pick how many airlines they want to show, compare or search individual airlines and show a timeline for a given rating. I plan to incorprate learnings of color, interation, and more from Visualization Analysis & Design, 2021.
+I plan to visualize the overall ratings and accomodation ratings which could be one of the above in table 1. I will utilize the horizontal bar chart and scatter plot to show ratings per airline and make it customizable in that you can show different aggregation types and show by ascending/descending. I can make it more customizable by allowing the user to pick how many airlines they want to show, compare or search individual airlines and show a timeline for a given rating. I plan to incorprate learnings of color, interaction, and more from Visualization Analysis & Design, 2021.
 
 These features enable both **cross-sectional** (airline-to-airline) and **temporal** (over-time) analyses.
 
