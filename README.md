@@ -135,7 +135,7 @@ This feature allows you to look at the trend of certain airline ratings over tim
 <img width="1241" height="586" alt="image" src="https://github.com/user-attachments/assets/77cdfdc3-e2f4-4cf5-8b9b-b3b80162778e" />
 
 
-### 5.3 Major Redesign
+### 5.3 Major Redesign and Most Recent Changes
 
 A full redesign standardized the **visual identity** of the project.
 
@@ -144,9 +144,14 @@ A full redesign standardized the **visual identity** of the project.
 - **Card-Based Interface**: Rounded corners, borders, and gradients for modern UI feel  
 - **AUC Fill in Time Graphs**: Added shaded areas under curves for trend clarity
 - **Animations**: Included is an animation that will draw the data over time
+- **Scroll Bars**: Added scroll bars to easily navigate menus when in a lower resolution than required
+- **Angled Dates**: Added angled dates to time graph to better read the date for a point
+- **Hover Cards**: Updated hover cards to include number of ratings
+- **Options**: Added option to select a min and max rating
 
 **(Click image to examine/view visualization.)**
-[![image](https://github.com/user-attachments/assets/71f36bdb-2230-49b8-a559-9e1e80eca3ba)](https://vizhub.com/Adamisnothere/64bf7156357944b192ce6f53e42ef761)
+https://vizhub.com/Adamisnothere/509b66cbd6d74cc6a5b8dfbdaec6649f
+[![image](https://github.com/user-attachments/assets/71f36bdb-2230-49b8-a559-9e1e80eca3ba)](https://vizhub.com/Adamisnothere/509b66cbd6d74cc6a5b8dfbdaec6649f)
 
 <img width="1906" height="762" alt="image" src="https://github.com/user-attachments/assets/2972b08d-2df0-48b6-9d86-13c65230840c" />
 
@@ -157,6 +162,23 @@ A full redesign standardized the **visual identity** of the project.
 <img width="1918" height="798" alt="image" src="https://github.com/user-attachments/assets/296139b3-175a-449a-a8e0-bf0e3071862a" />
 
 <img width="1912" height="794" alt="image" src="https://github.com/user-attachments/assets/7b45266e-0e28-4e8e-92c5-251d71ac31ff" />
+
+
+Scroll Bar:
+<img width="1915" height="913" alt="image" src="https://github.com/user-attachments/assets/4ba3be03-c1dd-48d0-bafb-db3329d6ba71" />
+
+
+Angled Dates:
+<img width="1656" height="762" alt="image" src="https://github.com/user-attachments/assets/c5238dd2-537a-4ed6-b1d3-fa91f9e4ce81" />
+
+
+Number of Ratings:
+<img width="1915" height="727" alt="image" src="https://github.com/user-attachments/assets/58021209-bad9-4720-97ec-d19937b68218" />
+
+
+Options Min/Max Ratings:
+<img width="1894" height="689" alt="image" src="https://github.com/user-attachments/assets/d66efded-f380-40a8-b358-8d6ba81abe3d" />
+
 
 
 ## 6. Visualization Features
