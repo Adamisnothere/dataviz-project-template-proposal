@@ -211,6 +211,12 @@ The following is the timeline of each update (once per week) and the major chang
 * Implemented a card based design for a more modern look with rounded edges, borders, and gradients
 * Added a AUC fill to the time graph
 
+### Week6:
+* Overhaul and update of the readme
+
+### Week7:
+
+
 ---
 
 ## 8. Reflections and Open Questions
