@@ -242,6 +242,7 @@ The following is the timeline of each update (once per week) and the major chang
 * Corrected display bug due to truncated names of airlines
 * Modified time view x-axis to be an angled (Month Year) format
 * Added ability to type in airline combo boxes to skip to that letters first airline in the list
+* Fixed airlines showing with no data
 
 ---
 
