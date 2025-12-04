@@ -182,7 +182,7 @@ Options Min/Max Ratings:
 
 
 ## 6. Visualization Features
-Near final features:
+Final features:
 
 **Table 2. Visualization Features**
 | Feature | Description | Purpose |
@@ -195,7 +195,7 @@ Near final features:
 | **Display Controls** | Adjust visible airline count | Prevent visual clutter |
 
 ## 7. Iteration Timeline
-The following is the timeline of each update (once per week) and the major changes incorporated.
+The following is each update (once per week) and the major changes incorporated.
 
 ### Week1: 
 * Added sorting options by ascending or descending
@@ -243,6 +243,9 @@ The following is the timeline of each update (once per week) and the major chang
 * Modified time view x-axis to be an angled (Month Year) format
 * Added ability to type in airline combo boxes to skip to that letters first airline in the list
 * Fixed airlines showing with no data
+
+### Week 8:
+* Final updates and cleanup
 
 ---
 
