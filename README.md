@@ -135,7 +135,7 @@ This feature allows you to look at the trend of certain airline ratings over tim
 <img width="1241" height="586" alt="image" src="https://github.com/user-attachments/assets/77cdfdc3-e2f4-4cf5-8b9b-b3b80162778e" />
 
 
-### 5.3 Major Redesign and Most Recent Changes
+### 5.3 Final Design and Most Recent Changes
 
 A full redesign standardized the **visual identity** of the project.
 
